@@ -32,7 +32,7 @@ Partial Class Form1
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(95, 20)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Endring nr 1"
+        Me.Label1.Text = "Endring nr 2"
         '
         'Form1
         '
